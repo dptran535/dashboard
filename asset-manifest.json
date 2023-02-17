@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dptran535/dashboard/static/css/main.08ca7eda.css",
+    "main.js": "/dptran535/dashboard/static/js/main.61d0ce43.js",
+    "index.html": "/dptran535/dashboard/index.html",
+    "main.08ca7eda.css.map": "/dptran535/dashboard/static/css/main.08ca7eda.css.map",
+    "main.61d0ce43.js.map": "/dptran535/dashboard/static/js/main.61d0ce43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08ca7eda.css",
+    "static/js/main.61d0ce43.js"
+  ]
+}
